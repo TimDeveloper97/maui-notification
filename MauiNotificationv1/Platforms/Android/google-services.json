@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20486230172",
+    "firebase_url": "https://androidapp-68540.firebaseio.com",
+    "project_id": "androidapp-68540",
+    "storage_bucket": "androidapp-68540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20486230172:android:380f82096b44c8798bdd59",
+        "android_client_info": {
+          "package_name": "com.companyname.mauinotificationv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20486230172-socrtdl7010j4dn2crcujoeim58t2dcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmdgmNfgfL5S_Oa06Q4DvNQ139BY_VP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20486230172-socrtdl7010j4dn2crcujoeim58t2dcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
